@@ -1,0 +1,5 @@
+2023/03/01-22:31:21.976 46dc Reusing MANIFEST G:/Git/UE5_Kiriba/UE5_Kiriba/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/01-23:15:56.601 174c Level-0 table #5: started
+2023/03/01-23:15:56.603 174c Level-0 table #5: 7741 bytes OK
+2023/03/01-23:15:56.605 174c Delete type=0 #3
+2023/03/01-23:15:56.605 174c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

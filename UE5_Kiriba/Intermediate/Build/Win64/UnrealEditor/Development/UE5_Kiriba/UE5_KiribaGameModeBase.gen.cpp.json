@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "g:\\git\\ue5_kiriba\\ue5_kiriba\\intermediate\\build\\win64\\unrealeditor\\inc\\ue5_kiriba\\ue5_kiribagamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\git\\ue5_kiriba\\ue5_kiriba\\intermediate\\build\\win64\\ue5_kiribaeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "g:\\git\\ue5_kiriba\\ue5_kiriba\\intermediate\\build\\win64\\unrealeditor\\development\\ue5_kiriba\\definitions.ue5_kiriba.h",
+            "g:\\git\\ue5_kiriba\\ue5_kiriba\\source\\ue5_kiriba\\ue5_kiribagamemodebase.h",
+            "g:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "g:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "g:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "g:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "g:\\git\\ue5_kiriba\\ue5_kiriba\\intermediate\\build\\win64\\unrealeditor\\inc\\ue5_kiriba\\ue5_kiribagamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

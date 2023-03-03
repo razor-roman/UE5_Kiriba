@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UE5_Kiriba",
+			"Path": "G:\\Git\\UE5_Kiriba\\UE5_Kiriba\\Source\\UE5_Kiriba.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UE5_KiribaEditor",
+			"Path": "G:\\Git\\UE5_Kiriba\\UE5_Kiriba\\Source\\UE5_KiribaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"G:\\Git\\UE5_Kiriba\\UE5_Kiriba\\Source\\UE5_Kiriba\\UE5_Kiriba.Build.cs",
+		"G:\\Git\\UE5_Kiriba\\UE5_Kiriba\\Source\\UE5_Kiriba.Target.cs",
+		"G:\\Git\\UE5_Kiriba\\UE5_Kiriba\\Source\\UE5_KiribaEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UE5_Kiriba.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\Git\UE5_Kiriba\UE5_Kiriba\Intermediate\Build\Win64\UE5_KiribaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"G:\Git\UE5_Kiriba\UE5_Kiriba\Intermediate\Build\Win64\UnrealEditor\Development\UE5_Kiriba\UE5_Kiriba.cpp.obj"
+"G:\Git\UE5_Kiriba\UE5_Kiriba\Intermediate\Build\Win64\UnrealEditor\Development\UE5_Kiriba\UE5_KiribaGameModeBase.cpp.obj"
+"G:\Git\UE5_Kiriba\UE5_Kiriba\Intermediate\Build\Win64\UnrealEditor\Development\UE5_Kiriba\UE5_Kiriba.init.gen.cpp.obj"
+"G:\Git\UE5_Kiriba\UE5_Kiriba\Intermediate\Build\Win64\UnrealEditor\Development\UE5_Kiriba\UE5_KiribaGameModeBase.gen.cpp.obj"
+"G:\Git\UE5_Kiriba\UE5_Kiriba\Intermediate\Build\Win64\UnrealEditor\Development\UE5_Kiriba\Default.rc2.res"
+/OUT:"G:\Git\UE5_Kiriba\UE5_Kiriba\Intermediate\Build\Win64\UnrealEditor\Development\UE5_Kiriba\UnrealEditor-UE5_Kiriba.lib"

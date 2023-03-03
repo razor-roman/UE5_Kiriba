@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "g:\\git\\ue5_kiriba\\ue5_kiriba\\intermediate\\build\\win64\\unrealeditor\\inc\\ue5_kiriba\\ue5_kiriba.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\git\\ue5_kiriba\\ue5_kiriba\\intermediate\\build\\win64\\ue5_kiribaeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "g:\\git\\ue5_kiriba\\ue5_kiriba\\intermediate\\build\\win64\\unrealeditor\\development\\ue5_kiriba\\definitions.ue5_kiriba.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
